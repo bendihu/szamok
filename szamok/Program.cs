@@ -79,7 +79,7 @@ public class Program
     {
         Console.WriteLine("4. feladat");
 
-        int min = list[0].Pont, max = list[0].Pont;
+        int min = list[0].Valasz, max = list[0].Valasz;
 
         foreach (var item in list)
         {
